@@ -8,10 +8,10 @@
 - :sparkles: I hope I can find a good job this year :sparkles: .
 
 ### Languages and Skills<br>
-<p align="center">
+<p align="left">
  <img src="https://img.shields.io/badge/Technology%20Stack-Java-blue" alt="Java" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/Language-Python-9cf" alt="python" style="vertical-align:top; margin:4px">
- <img src="hhttps://img.shields.io/badge/Machine-Learning-green" alt="ml" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Machine-Learning-green" alt="ml" style="vertical-align:top; margin:4px">
 </p>
 - 📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.facebook.com/garen.hong.5"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
