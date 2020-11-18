@@ -5,7 +5,7 @@
 - :book: I’m currently pursuing my Master of Science in Computer Science and Technology.
 - :star: I'm learning ML ,recommendation system.
 - :heart: I'm addicted in English and music :notes: .<br>
-- :sparkles: I hope I can find a good job this year :sparkles: .
+- :sparkles: I hope I can graduate smoothly in 2021.:sparkles: .
 
 ### Languages and Skills<br>
 <p align="left">
