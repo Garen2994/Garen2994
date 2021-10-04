@@ -2,10 +2,10 @@
 ### Hello Geekers~<br>
 
 - :girl: I'm Garen Hou from China :sunflower: .
-- :book: I’m currently pursuing my Master of Science in Computer Science and Technology.
-- :star: I'm learning ML ,recommendation system.
+- :book: I got my Master of Science in Computer Science and Technology.
+- :star: I'm learning Linux and Embeded system.
 - :heart: I'm addicted in English and music :notes: .<br>
-- :sparkles: I hope I can graduate smoothly in 2021.:sparkles: .
+- :sparkles: Work hard for money.:sparkles: .
 
 ### Languages and Skills<br>
 <p align="left">
